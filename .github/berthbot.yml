@@ -5,7 +5,7 @@
 #   gate.spinnaker.yourcompany.com or spinnaker-api.yourcompany.com
 # 
 # 
-spinnakerApiAddress: 
+spinnakerApiAddress: gate.spin-api.example.com
 # 
 #
 # ==========================================================
